@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Kun on Github</title>
-
-</head>
-<body>
-	
-</body>
-</html>
+<a href="README">Main</a> It is just may plain old stupid intro.<br/>
+<a href="Resources">Resources</a> This page has all the resources to help you in coding.
