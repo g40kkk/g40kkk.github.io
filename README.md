@@ -1,2 +1,2 @@
 # g40kkk.github.io
-this is the Main page
+Personal and copied thoughts from someone else, too.
